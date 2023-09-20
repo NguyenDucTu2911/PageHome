@@ -1,0 +1,19 @@
+.menu__exit {
+    font-size: 41px;
+    color: red;
+    cursor: pointer;
+    float: right;
+
+}
+
+.menu__wrapper {
+    list-style-type: none;
+    top: 53px;
+    position: relative;
+    left: -27px;
+
+    :hover {
+        color: red;
+        cursor: pointer;
+    }
+}

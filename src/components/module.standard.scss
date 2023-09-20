@@ -1,0 +1,23 @@
+.standard {
+    text-align: center;
+    padding: 0px 0 0px 0;
+
+    .standard__wrappe {
+        position: relative;
+        justify-content: space-between;
+        width: 80%;
+        margin: auto;
+        display: flex;
+
+        .standard__item {
+            width: 295px;
+            text-align: center;
+            margin: 40px 0;
+            padding: 0 10px;
+
+            .standard__img {
+                width: 130px;
+            }
+        }
+    }
+}
